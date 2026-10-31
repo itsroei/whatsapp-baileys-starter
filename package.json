@@ -22,5 +22,9 @@
   },
   "keywords": ["whatsapp", "baileys", "whatsapp-bot", "whatsapp-api", "nodejs", "ai", "gemini"],
   "author": "Roei Avraham",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsroei/whatsapp-baileys-starter.git"
+  },
   "license": "MIT"
 }

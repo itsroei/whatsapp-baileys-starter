@@ -47,7 +47,7 @@ So this is the connection I actually use, cleaned up and **pinned to the exact v
 You need [Node.js](https://nodejs.org) 20 or newer (`node -v` to check). No git? Click **Code → Download ZIP** above and unzip it.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/whatsapp-baileys-starter.git
+git clone https://github.com/itsroei/whatsapp-baileys-starter.git
 cd whatsapp-baileys-starter
 npm install
 npm start
