@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-baileys-starter",
+  "version": "1.0.0",
+  "description": "A WhatsApp connection with Baileys that just works — scan a QR and read, reply, save chats, download media, track stats and plug in AI. Free.",
+  "type": "module",
+  "main": "connect.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "save-chats": "node examples/save-chats.js",
+    "media": "node examples/download-media.js",
+    "stats": "node examples/stats.js",
+    "export": "node examples/export-chat.js",
+    "ai": "node examples/ai-bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "7.0.0-rc14",
+    "pino": "9.14.0",
+    "qrcode-terminal": "0.12.0"
+  },
+  "keywords": ["whatsapp", "baileys", "whatsapp-bot", "whatsapp-api", "nodejs", "ai", "gemini"],
+  "author": "Roei Avraham",
+  "license": "MIT"
+}

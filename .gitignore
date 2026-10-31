@@ -1,0 +1,9 @@
+# 🔴 Your WhatsApp session — whoever has this folder has your WhatsApp. NEVER commit or share it.
+auth/
+auth*/
+
+# Your saved chats, media and exports (private data)
+data/
+
+.env
+node_modules/
